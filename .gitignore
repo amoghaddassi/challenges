@@ -1,0 +1,7 @@
+oi.gitignore
+*.gdoc
+*.un~
+*~
+*.swp
+__pycache__/
+.gslides
